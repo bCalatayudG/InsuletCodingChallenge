@@ -1,4 +1,4 @@
-package com.aidl;
+package com.aidl.aidlclient;
 
 import android.os.Parcel;
 import android.os.Parcelable;

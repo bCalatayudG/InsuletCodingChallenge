@@ -2,7 +2,7 @@
 package com.aidl.aidlserver;
 
 // Declare any non-default types here with import statements
-import com.aidl.aidlserver.Person;
+import com.aidl.aidlclient.Person;
 
 interface IRemoteService {
     /**

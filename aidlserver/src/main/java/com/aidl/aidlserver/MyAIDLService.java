@@ -8,6 +8,8 @@ import android.os.RemoteException;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.aidl.aidlserver.Person;
+
 public class MyAIDLService extends Service {
 
     List<Person> personList = new ArrayList<>();
